@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\bin\Debug\DevicesApp.exe.config
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\bin\Debug\DevicesApp.exe
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\bin\Debug\DevicesApp.pdb
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.Form1.resources
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.exe
+C:\Users\Lenovo\source\repos\DevicesApp\DevicesApp\obj\Debug\DevicesApp.pdb
